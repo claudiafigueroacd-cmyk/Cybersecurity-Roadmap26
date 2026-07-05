@@ -6,6 +6,26 @@ Estrellas de GitHub Bifurcaciones de GitHub Credencial de visitante.
 
 Novedades para 2026: Los ataques y defensas basados ​​en IA, la arquitectura de confianza cero, la seguridad centrada en la identidad, la preparación para la criptografía postcuántica y la seguridad nativa en la nube están transformando el sector. Esta hoja de ruta refleja dichos cambios.
 
+
+## 🗂️ Table of Contents
+
+1. [🚀 Foundation](#-foundation)
+2. [🔎 Fundamentals](#-fundamentals)
+3. [💻 Programming & Scripting](#-programming--scripting)
+4. [🌐 Specialization Tracks](#-specialization-tracks)
+5. [🤖 Emerging Areas (2026 Focus)](#-emerging-areas-2026-focus)
+6. [🧪 Practical Experience & Labs](#-practical-experience--labs)
+7. [📚 Continuous Learning](#-continuous-learning)
+8. [📺 YouTube Channels](#-youtube-channels)
+9. [💼 Job Roles & Salaries](#-job-roles--salaries)
+10. [🔐 Improving Your Skills](#-improving-your-skills)
+11. [💼 Finding a Job](#-finding-a-job)
+12. [📜 Certifications](#-certifications)
+13. [📅 6-Month Roadmap](#-6-month-roadmap)
+14. [📈 Tips for Success](#-tips-for-success)
+15. [📚 Recommended Books](#-recommended-books)
+16. [🤝 Communities](#-communities)
+
 🗂️ Tabla de contenido
 🚀 Fundación
 🔎 Fundamentos
