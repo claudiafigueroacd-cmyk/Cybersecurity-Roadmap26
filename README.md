@@ -2,8 +2,6 @@
 
 ¡Bienvenidos a la Hoja de Ruta de Ciberseguridad ! 🎉 Esta guía está diseñada para ayudarte a adentrarte en el apasionante y siempre cambiante campo de la ciberseguridad, abarcando desde conocimientos básicos hasta experiencia práctica y consejos profesionales. Tanto si eres principiante, como si buscas un cambio de carrera o eres un profesional de TI que se está orientando hacia la seguridad, esta hoja de ruta te ayudará a construir un camino estructurado hacia el futuro. ¡Adentrémonos juntos en este mundo seguro! 🌐🔐
 
-Estrellas de GitHub Bifurcaciones de GitHub Credencial de visitante.
-
 Novedades para 2026: Los ataques y defensas basados ​​en IA, la arquitectura de confianza cero, la seguridad centrada en la identidad, la preparación para la criptografía postcuántica y la seguridad nativa en la nube están transformando el sector. Esta hoja de ruta refleja dichos cambios.
 
 
